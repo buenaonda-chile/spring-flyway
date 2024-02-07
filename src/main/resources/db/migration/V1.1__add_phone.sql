@@ -1,0 +1,1 @@
+ALTER TABLE member ADD COLUMN phone varchar(255)
